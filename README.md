@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akarsh226@gmail.com**
 
-- 📄 Know about my experiences [Link]https://drive.google.com/file/d/1mZuUMj_aEdj1IVL-DxgLAYgzAM9VCJar/view?usp=sharing
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1mZuUMj_aEdj1IVL-DxgLAYgzAM9VCJar/view?usp=sharing)
 
 - ⚡ Fun fact **i spend more time listening songs or watching movie**
 
