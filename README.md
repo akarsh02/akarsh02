@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akarsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native,Expo and Gluestack**
 
 - 👨‍💻 All of my projects are available at [http://akarsh.tech/](http://akarsh.tech/)
 
