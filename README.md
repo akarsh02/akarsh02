@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akarsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Solidity and WebDriver.io**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [http://akarsh.tech/](http://akarsh.tech/)
 
-- 💬 Ask me about **react,redux,tailwind,nodejs,webdriver.io,java**
+- 💬 Ask me about **react,redux,tailwind,react-native,webdriver.io**
 
 - 📫 How to reach me **akarsh226@gmail.com**
 
