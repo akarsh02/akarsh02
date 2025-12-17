@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native,Expo and Gluestack**
 
-- 👨‍💻 All of my projects are available at [http://akarsh.tech/](http://akarsh.tech/)
+- 👨‍💻 All of my projects are available at [http://akarsh.tech/](https://www.akarsh.space/)
 
 - 💬 Ask me about **react,redux,tailwind,react-native,webdriver.io**
 
