@@ -7,7 +7,7 @@
 
 ### Frontend • React Native • Web3 Developer  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=React+Native+Engineer;Web3+Frontend+Developer;Building+Mobile+%26+DeFi+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=React+Native+Engineer;Web3+Frontend+Developer"/>
 
 <br>
 
@@ -24,6 +24,7 @@
 - ⚛️ React / Next.js frontend  
 - 🔗 Ethers.js • Wagmi • Web3.js  
 - 🧪 Automation with WebdriverIO  
+- 🚀 Currently learning DevOps
 
 ---
 
