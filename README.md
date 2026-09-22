@@ -5,9 +5,9 @@
 
 # 👨‍🚀 Akarsh  
 
-### Frontend • React Native • Web3 Developer  
+### Full-Stack • React Native • Web3 • AI Developer  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=React+Native+Engineer;Web3+Frontend+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=React+Native+Engineer;Web3+Frontend+Developer;Python+FastAPI+Backend+Developer;AI+%26+GenAI+Developer;LangChain+Developer"/>
 
 <br>
 
@@ -22,6 +22,9 @@
 - 📱 React Native + Expo apps  
 - 🌐 Web3 & DeFi UI development  
 - ⚛️ React / Next.js frontend  
+- 🐍 Python backend development with FastAPI  
+- 🤖 AI and GenAI application development  
+- 🔗 LangChain applications and LLM integrations  
 - 🔗 Ethers.js • Wagmi • Web3.js  
 - 🧪 Automation with WebdriverIO  
 - 🚀 Currently learning DevOps
@@ -35,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js,nodejs,express,mongodb,firebase,git,android&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js,python,fastapi,nodejs,express,mongodb,firebase,git,android&perline=7"/>
 
 <br><br>
 
@@ -43,6 +46,10 @@
 <img src="https://img.shields.io/badge/Web3.js-0f172a?style=for-the-badge&logo=web3dotjs&logoColor=F16822"/>
 <img src="https://img.shields.io/badge/Wagmi-0f172a?style=for-the-badge&logo=webauthn&logoColor=white"/>
 <img src="https://img.shields.io/badge/DeFi-0f172a?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/AI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
 
 </div>
 
