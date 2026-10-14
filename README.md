@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<a href="https://akarsh.space">
+<a href="https://akarshb.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
